@@ -16,3 +16,5 @@ else:
             for j in range(cg):
                 te = te + m[i][j]
     print(f"Total excedente: {te}")
+
+    #feito por mim
